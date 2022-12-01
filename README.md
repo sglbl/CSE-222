@@ -28,3 +28,6 @@ Binary Search Tree inside Heap Tree Implementation
  * Generalization of Dijkstra's Algorithm 
  * Number of Connected Components Finder using BSF and DFS
  * Normalized Importance Value Finder for Undirected and Unweighted Graph
+
+### Project
+ * Human Resources Company Group Project

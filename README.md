@@ -1,5 +1,5 @@
 # CSE-222
-## My Solutions for Homeworks of Cse 222 Data Structure and Algorithms
+Assignments of Cse 222 - Data Structure and Algorithms
 ### Homework 1
 Automation System for Company That Sells Office Furnitures
 
